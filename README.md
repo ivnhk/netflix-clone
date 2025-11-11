@@ -1,4 +1,4 @@
-# bun-react-tailwind-template
+# netflix-clone
 
 To install dependencies:
 
